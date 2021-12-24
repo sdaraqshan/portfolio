@@ -1,0 +1,98 @@
+.hero-section{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+}
+.abtme{
+    background-color: rgb(250, 209, 209);
+}
+
+.letsconnect{
+    background-color: rgb(215, 250, 245);
+}
+.container{
+    padding: 80px;
+}
+
+.icon{
+    width: 50px;;
+}
+
+.display-inline-block{
+    display: inline-block;
+}
+
+.container{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+
+/* Alignment */
+.align-left{
+    text-align: left;
+}
+.align-right{
+    text-align: right;
+}
+
+
+/* size */
+.w-50{
+    width: 50%;
+    height: 30%;
+}
+
+.w-50px{
+    width: 50px;
+}
+.w-35px{
+    width: 35px;
+}
+
+.size-350px{
+   /* width: 350px;
+    height: 350px;*/
+
+    border-radius: 25px;
+  border: 2px solid #b4b4b4;
+  width: 350px;
+  height: 350px;
+}
+
+
+/* spacing */
+
+.m-10{
+    margin: 10px;
+}
+.ml-10{
+    margin-left: 10px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.m-30{
+    margin: 30px;
+}
+.ml-30{
+    margin-left: 30px;
+}
+.mr-30{
+    margin-right: 30px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
